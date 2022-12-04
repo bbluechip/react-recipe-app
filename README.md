@@ -5,7 +5,7 @@
 👉[Click here to see the page](https://react-recipe-app-one.vercel.app/detail)
 
 ## Used in this project
-👉 React js, Create react app, axios, react, react-router, context-api, react-styled-components, 
+👉 React js, Create react app, axios, react, react-router, react-styled-components, 
 useState hook, useEffect, useNavigate, navigate etc. 
 
 👉 CSS, styled-components.
